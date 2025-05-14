@@ -1,0 +1,6 @@
+module-info.class
+com\mycompany\hotelreservations\PrimaryController.class
+com\mycompany\hotelreservations\HotelReservation.class
+com\mycompany\hotelreservations\HotelDB.class
+com\mycompany\hotelreservations\App.class
+com\mycompany\hotelreservations\SecondaryController.class
